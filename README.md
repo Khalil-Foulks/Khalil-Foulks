@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ### Follow me on 
-  🔲 Twitter https://twitter.com/khalilfoulks 
+  🔲 Twitter: https://twitter.com/khalilfoulks 
   
-  🔲 LinkedIn https://www.linkedin.com/in/khalil-foulks/
+  🔲 LinkedIn: https://www.linkedin.com/in/khalil-foulks/
