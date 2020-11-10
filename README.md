@@ -1,9 +1,9 @@
 # Hi there, I'm Khalil 👋
 
-- 🌱 Currently Learning: How to use Mapbox with React
-- 🖥️ Currently Seeking: A front-end, backend or software engineer position
-- ⚡ Fun fact: I love video games and basketball
-- 🔨 Current Project: Bridges to Prosperity
+- 🌱 **Currently** Learning: How to use Mapbox with React
+- 🖥️ **Currently Seeking:** A front-end, backend or software engineer position
+- ⚡ **Fun fact:** I love video games and basketball
+- 🔨 **Current Project:** Bridges to Prosperity
 
 ### Follow me on 
 
