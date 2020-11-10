@@ -2,7 +2,7 @@
 
 - 🌱 **Currently** Learning: How to use Mapbox with React
 - 🖥️ **Currently Seeking:** A front-end, backend or software engineer position
-- ⚡ **Fun fact:** I love video games and basketball
+- ⚡ **Fun Fact:** I love video games and basketball
 - 🔨 **Current Project:** Bridges to Prosperity
 
 ### Follow me on 
