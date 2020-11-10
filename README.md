@@ -1,8 +1,11 @@
 # Hi there, I'm Khalil 👋
 
-- 🌱 I’m currently learning everything 🤣
-- 🤔 I’m looking for a front-end, backend or software engineer job 🖥️
+Hi, I'm Khalil! I'm a software engineer. I've always had an interest in programming  
+
+- 🌱 I’m currently learning how to use Mapbox with React
+- 🖥️ I’m currently looking for a front-end, backend or software engineer job
 - ⚡ Fun fact: I love video games and basketball
+- 🔨 Current Project: Bridges to Prosperity
 
 ### Follow me on 
 
