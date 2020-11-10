@@ -1,7 +1,7 @@
 # Hi there, I'm Khalil 👋
 
-- 🌱 I’m currently learning how to use Mapbox with React
-- 🖥️ I’m currently looking for a front-end, backend or software engineer job
+- 🌱 Currently Learning: How to use Mapbox with React
+- 🖥️ Currently Seeking: A front-end, backend or software engineer position
 - ⚡ Fun fact: I love video games and basketball
 - 🔨 Current Project: Bridges to Prosperity
 
