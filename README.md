@@ -1,6 +1,6 @@
 # Hi there, I'm Khalil 👋
 
-- 🌱 **Currently** Learning: How to use Mapbox with React
+- 🌱 **Currently** Learning: How to use [react-map-gl]
 - 🖥️ **Currently Seeking:** A front-end, backend or software engineer position
 - ⚡ **Fun Fact:** I love video games and basketball
 - 🔨 **Current Project:** Bridges to Prosperity
@@ -32,6 +32,7 @@
 <br />
 <br />
 
+[react-map-gl]: https://visgl.github.io/react-map-gl/
 
 [website]: https://khalilfoulks.com
 [twitter]: https://twitter.com/khalilfoulks 
