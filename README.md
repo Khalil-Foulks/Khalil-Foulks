@@ -1,6 +1,6 @@
 # Hi there, I'm Khalil 👋
 
-- 🌱 **Currently** Learning: How to use [react-map-gl]
+- 🌱 **Currently Learning**: How to use [react-map-gl]
 - 🖥️ **Currently Seeking:** A front-end, backend or software engineer position
 - ⚡ **Fun Fact:** I love video games and basketball
 - 🔨 **Current Project:** Bridges to Prosperity
