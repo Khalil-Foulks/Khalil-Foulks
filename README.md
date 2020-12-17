@@ -1,9 +1,9 @@
 # Hi there, I'm Khalil 👋
 
-- 🌱 **Currently Learning**: How to use [react-map-gl]
+- 🌱 **Currently Learning**: How to use [Typescript]
 - 🖥️ **Currently Seeking:** A front-end, backend or software engineer position
 - 🎮 **Fun Fact:** I love video games and basketball
-- 🔨 **Current Project:** Bridges to Prosperity
+- 🔨 **Current Project:** Bridges To Prosperity
 
 ### Follow me on 
 
@@ -30,7 +30,7 @@
 <br />
 <br />
 
-[react-map-gl]: https://visgl.github.io/react-map-gl/
+[Typescript]: https://www.typescriptlang.org/
 
 [website]: https://khalilfoulks.com
 [twitter]: https://twitter.com/khalilfoulks 
