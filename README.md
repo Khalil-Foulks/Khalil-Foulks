@@ -1,6 +1,6 @@
 # Hi there, I'm Khalil 👋
 
-- 🌱 **Currently Learning**: How to use [Typescript]
+- 🌱 **Currently Learning**: How to use [Spring]
 - 🖥️ **Currently Seeking:** A front-end, backend or software engineer position
 - 🎮 **Fun Fact:** I love video games and basketball
 - 🔨 **Current Project:** Bridges To Prosperity
@@ -30,7 +30,7 @@
 <br />
 <br />
 
-[Typescript]: https://www.typescriptlang.org/
+[Spring]: https://spring.io/
 
 [website]: https://khalilfoulks.com
 [twitter]: https://twitter.com/khalilfoulks 
