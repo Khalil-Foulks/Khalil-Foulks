@@ -3,7 +3,7 @@
 - 🌱 **Currently Learning**: How to use [Spring]
 - 🖥️ **Currently Seeking:** A front-end, backend or software engineer position
 - 🎮 **Fun Fact:** I love video games and basketball
-- 🔨 **Current Project:** Bridges To Prosperity
+- 🔨 **Most Recent Project:** Bridges To Prosperity
 
 ### Follow me on 
 
