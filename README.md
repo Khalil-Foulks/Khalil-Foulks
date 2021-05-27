@@ -30,7 +30,7 @@
 <br />
 <br />
 
-[Spring]: https://spring.io/
+[Spring Boot]: https://spring.io/
 
 [website]: https://khalilfoulks.com
 [twitter]: https://twitter.com/khalilfoulks 
