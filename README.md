@@ -1,6 +1,6 @@
 # Hi there, I'm Khalil 👋
 
-- 🌱 **Currently Learning**: How to use [Spring Boot] & [Next.js]
+- 🌱 **Currently Learning**: How to use [Next.js]
 - 🖥️ **Currently Seeking:** A front-end, backend or software engineer position
 - 🎮 **Fun Fact:** I love video games and basketball
 - 🔨 **Most Recent Project:** Bridges To Prosperity
@@ -30,7 +30,6 @@
 <br />
 <br />
 
-[Spring Boot]: https://spring.io/
 [Next.js]: https://nextjs.org/
 
 [website]: https://khalilfoulks.com
